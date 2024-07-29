@@ -1,6 +1,6 @@
 # 🌾 Agri Card Project 🌿
 
-![Agri Card](https://dileepkumarirri.github.io/Agricard/images/Upload/card.jpg)
+![Agri Card](images/Upload/card.jpg)
 
 ---
 
